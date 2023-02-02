@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]E:\Users\16117\1_qimingxing\two_uartlite\two_uartlite.sdk\FSBL\Debug\FSBL.elf
+	E:\Users\16117\1_qimingxing\two_uartlite\two_uartlite.sdk\system_wrapper_hw_platform_0\system_wrapper.bit
+	E:\Users\16117\1_qimingxing\two_uartlite\two_uartlite.sdk\Multi_Ctrl\Debug\Multi_Ctrl.elf
+}
